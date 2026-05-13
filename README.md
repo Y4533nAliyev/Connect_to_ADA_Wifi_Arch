@@ -27,6 +27,7 @@ If it connects, Congratulation! if not follow the steps below.
 - Open up a terminal and type `nmcli connection edit ADA_Campus`
 - After that you will be taken into `nmcli>`
 
+Copy these commands to your terminal and don't forget to change the "YOUR_USERNAME" and "YOUR_PASSWORD" to your actual username and password
 ```
 nmcli connection modify "ADA_Campus" wifi-sec.key-mgmt wpa-eap 
 
