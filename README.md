@@ -20,7 +20,7 @@ Modern Linux distributions (including Arch and newer Fedoras) use OpenSSL 3, whi
 - Type your Username and Password.
 - Save and it will try to connect.
 
-If it connects, Congratulation! if not follow the steps below.
+If it connects, Congratulations! if not follow the steps below.
 
 ## (II) `nmcli`
 
