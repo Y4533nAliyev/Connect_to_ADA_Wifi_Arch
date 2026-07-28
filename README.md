@@ -2,7 +2,7 @@
 
 This is a guide on how to connect to ADA university's Wi-fi on Arch. 
 
-Modern Linux distributions (including Arch and newer Fedoras) use OpenSSL 3, which strictly blocks older TLS versions and legacy renegotiation by default. Many university RADIUS servers are running older software that relies on this legacy tech for PEAP.
+Modern Linux distributions (including Arch and newer Fedoras) use OpenSSL 3, which strictly blocks older TLS versions and legacy renegotiation by default. Many universities RADIUS servers are running older software that relies on this legacy tech for PEAP.
 
 # Use Advanced Network Configuration(GUI) and `nmcli`(CLI)
 
